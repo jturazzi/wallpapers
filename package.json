@@ -1,0 +1,19 @@
+{
+  "name": "wallpapers",
+  "version": "1.0.0",
+  "description": "Generate Gallery",
+  "main": "index.js",
+  "scripts": {
+    "build": "node generateGallery.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jturazzi/wallpapers.git"
+  },
+  "author": "Jérémy Turazzi (jturazzi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jturazzi/wallpapers/issues"
+  },
+  "homepage": "https://github.com/jturazzi/wallpapers#readme"
+}
