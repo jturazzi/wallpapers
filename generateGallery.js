@@ -39,7 +39,6 @@ const generateGallery = (imagesDir) => {
     }
   }
 
-  // Ajoute les scripts Bootstrap
   html +=`   
       </div>  
     </div>
